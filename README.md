@@ -22,9 +22,8 @@ A simple GUI (Tkinter) is provided for ease of use.
 
 ## Reference
 
-For details on the structure and storage format of the extracted experiment notes, see:
-
-- (Insert URL here)
+For details on the structure and storage format of the extracted experiment notes, see: 
+[eLabFTW-for-Digi-TOS](https://github.com/takahashi8888/eLabFTW-for-Digi-TOS/)
 
 ---
 
