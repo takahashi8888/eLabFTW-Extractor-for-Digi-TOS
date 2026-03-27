@@ -1,2 +1,11 @@
 # eLabFTW-Extractor-for-Digi-TOS
-This tool is a GUI-based data extraction and conversion utility for eLabFTW experiments, specifically designed for the Digi-TOS workflow.  It allows users to fetch structured experiment data (JSON) stored in eLabFTW and export it into analysis-friendly formats such as CSV or **TSV
+This program connects to an eLabFTW instance via API and:
+
+- Retrieves uploaded JSON files from a specific experiment
+  - `DigiTOS_Info_<ExperimentID>.json`
+  - `Reaction_Scheme_<ExperimentID>.json`
+- Parses and flattens nested data structures
+- Converts them into a tabular format
+- Exports them as **CSV / TSV files (Excel-compatible)**
+
+A simple GUI (Tkinter) is provided for ease of use.
