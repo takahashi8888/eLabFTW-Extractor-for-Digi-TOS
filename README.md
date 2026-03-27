@@ -13,6 +13,11 @@ This program connects to an eLabFTW instance via API and:
 
 A simple GUI (Tkinter) is provided for ease of use.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0db5a303-9130-417f-816e-e8c35bae16ed" width="793">
+</p>
+
+
 ---
 
 ## Reference
@@ -82,7 +87,3 @@ Exported files are automatically named using timestamps:
 - elabftw_export_YYYYMMDD_HHMMSS.csv
 
 ---
-
-## Credits
-
-Developed by **Hayato Takahashi**
